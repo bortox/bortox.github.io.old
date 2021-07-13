@@ -147,3 +147,23 @@ footer {
 		padding: 0;
 	}
 }
+
+/* Dark mode support */
+@media (prefers-color-scheme: dark) {
+	body {
+	  color: #d3d8de;
+	  background-color: #21262c;
+	}
+
+	a:link, a:visited, a:hover, a:active {
+	  color: rgba(217, 120, 115, 0.8);
+	}
+
+	.main-list-item-icon {
+	  color: #bfbfbf;
+	}
+
+	.logo {
+	  border: none;
+	}
+}
