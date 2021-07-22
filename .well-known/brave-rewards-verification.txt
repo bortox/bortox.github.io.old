@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: bortox.github.io
+Token: df8cf09c758e34bb82a933fa5f38adc096674dc3a7f13c170ff381ab10e0bcbd
