@@ -29,3 +29,6 @@ highlighter: rouge
 
 # Permalinks
 permalink: pretty
+
+# Brave rewards
+include: [".well-known"]
