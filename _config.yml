@@ -9,7 +9,7 @@ compass:
   # author will appear under the avatar (optional)
   author: "Andrea Bortolotti"
   # tagline will appear under the title (optional)
-  tagline: "Ciao, sono un ragazzo di 16 anni, un coglione qualunque. Qua ci sono alcuni miei hobby."
+  tagline: "Ciao, sono un ragazzo qualunque di 16 anni. Qua ci sono alcuni miei progetti."
   # if include_content is true, the contents of the content.html include will be
   # added right above the generated item list, if present
   include_content: true
