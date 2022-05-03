@@ -1,6 +1,6 @@
 # general configuration
 url: https://bortox.github.io
-baseurl: ''
+baseurl: '/old-homepage'
 
 # compass configuration
 compass:
